@@ -1,0 +1,129 @@
+.centrar {
+    text-align: center;
+
+}
+
+.logo_usac {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+
+.tabla_datos {
+    width: 60%;
+}
+
+.borde_lista {
+    border: 1px black solid;
+    width: 150px;
+}
+
+.derecha {
+    text-align: right;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+
+tr,
+td {
+    border: 1px solid black;
+}
+
+.regresar {
+    width: 100px;
+    height: 50px;
+}
+
+/*Ejemplo 1*/
+.tablaejemplo1 {
+    width: 40%;
+}
+
+.tablaejemplo2 td {
+    width: 200px
+}
+
+/*Ejemplo 2*/
+.tablaejemplodos {
+    width: 90%;
+}
+
+.tablaejemplodos th {
+    background-color: black;
+    color: white;
+}
+
+/*Actividad 1*/
+.tabla_act1 {
+    width: 80%;
+}
+
+.tabla_act1 td {
+    width: 200px
+}
+.tabla_act1 tr{
+    height: 25px;
+}
+.fondo_azul{
+    background-color: rgb(8, 8, 128);
+    color: white;
+}
+.fondo_verde{
+    background-color: rgb(117, 233, 117);
+}
+.fondo_piel{
+    background-color: rgb(245, 212, 175);
+}
+.fondo_celeste{
+    background-color: skyblue;
+}
+.fondo_negro{
+    background-color: black;
+    color: white;
+}
+.fondo_rojo{
+    background-color: red;
+}
+
+/*Actividad 2*/
+.tabla_act2 {
+    width: 80%;
+}
+
+.tabla_act2 td {
+    width: 200px
+}
+.tabla_act2 tr{
+    height: 30px;
+}
+.imagen1 {
+    width: 230px;
+    height: 110px;
+}
+.imagen2 {
+    width: 250px;
+    height: 130px;
+}
+.imagen3 {
+    width: 140px;
+    height: 120px;
+}
+/*Actividad 3*/
+.tabla_act3 {
+    width: 80%;
+}
+
+.tabla_act3 td {
+    width: 200px
+}
+.tabla_act3 tr{
+    height: 30px;
+}
+
+.tabla_act3 th {
+    background-color: rgb(189, 18, 18);
+    color: white;
+}
